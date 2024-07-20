@@ -1,0 +1,2 @@
+Este es el repositorio del programa CreaCarpetas elaborado en el Instituto Meteorologico Nacional de Costa Rica.
+Este programa cuenta con una interfaz grafica y se utiliza para generar las carpetas aeronauticas con el pronostico de despegue para los vuelos del aeropuerto internacional Juan Santamaria en San Jose.
